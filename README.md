@@ -31,7 +31,7 @@ nanobox run php-server
 nanobox dns add local slim.dev
 ```
 
-Visit your app at <a href="http://slim.dev:8000" target="\_blank">slim.dev:8000</a>
+Visit your app at <a href="http://slim.dev" target="\_blank">slim.dev</a>
 
 ## Explore
 
