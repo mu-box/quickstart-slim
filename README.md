@@ -20,16 +20,14 @@ cd nanobox-slim
 ## Run the app
 
 ```bash
+# Add a convenient way to access your app from the browser
+nanobox dns add local slim.dev
+
 # Run slim as you would normally, with Nanobox
 nanobox run php-server
 ```
 
 ## Check it out
-
-```bash
-# Add a convenient way to access your app from the browser
-nanobox dns add local slim.dev
-```
 
 Visit your app at <a href="http://slim.dev" target="\_blank">slim.dev</a>
 
